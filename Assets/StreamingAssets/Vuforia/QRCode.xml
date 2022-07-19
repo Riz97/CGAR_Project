@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="qrcode6_ChestOfDrawers" size="0.215000 0.215000" />
+    <ImageTarget name="qrcode5_Wardrobe" size="0.215000 0.215000" />
+    <ImageTarget name="qrcode4_OfficeChair" size="0.215000 0.215000" />
+    <ImageTarget name="qrcode3_Table" size="0.215000 0.215000" />
+    <ImageTarget name="qrcode2_Sofa" size="0.215000 0.215000" />
+    <ImageTarget name="qrcode1_ModernChair" size="0.215000 0.215000" />
+  </Tracking>
+</QCARConfig>
