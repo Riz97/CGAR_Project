@@ -1,9 +1,10 @@
 [README.pdf](https://github.com/Riz97/CGAR_Project/files/9161984/README.pdf)
 # CGAR_Project
-Computer Graphics &amp; Augmented Reality Final Project
-Computer Graphics - Augmented Reality - Project 2021/2022
+Computer Graphics &amp; Augmented Reality Final Project Computer Graphics - Augmented Reality - Project 2021/2022
+
 Riccardo Caprile 4370774
 Giulia Benvenuto 4678610
+
 Application for visualizing 3D models and their instructions.
 
 The objective of this project is to scan a QR code , visualize the 3d model , interact with them and
