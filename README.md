@@ -33,6 +33,11 @@ user. In the hierarchy , the Canvas has a child which is an image that displays 
 instruction and the scripts above change the sprite of the Image if the user press the Virtual
 Button.
 
+
+
+
 The Virtual Buttons by default are transparent , so in order to see them , we used planes
 positioned right above the Virtual Button. They are triggered by occlusion and you can set three
 different types of sensitivity. For the project we set it as medium
+
+![WhatsApp Image 2022-07-21 at 15 18 07](https://user-images.githubusercontent.com/93477707/180293902-da40cb4b-0244-4057-951d-fb2854f9606a.jpeg)
